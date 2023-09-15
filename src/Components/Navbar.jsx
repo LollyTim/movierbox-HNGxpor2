@@ -43,7 +43,7 @@ const Navbar = ({ onSearch }) => {
        <h1 className='w-[404px] text-white font-DM Sans font-[700] text-5xl leading-[56px]'>John Wick 3 :<br/> Parabellum</h1>
        <div className='py-4 flex gap-3 text-[#adadad] text-sm'>
         <div className='flex gap-1'>
-        <img src="MV5BMTk3ODA4Mjc0NF5BMl5BcG5nXkFtZTgwNDc1MzQ2OTE@ 1.png" alt="" />
+        <img src="MV5BMTk3ODA4Mjc0NF5BMl5BcG5nXkFtZTgwNDc1MzQ2OTE@ 1.png" alt="bif" />
         <p>80.0/100</p>
         </div>
         <div className='flex gap-1'>
