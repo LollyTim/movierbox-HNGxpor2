@@ -26,7 +26,7 @@ function Movies() {
     <div className='my-10 mx-auto w-[90%]'>
       <div className='flex justify-between items-center py-8'>
       <h1 className='font-bold text-black text-2xl' >Featured Movies</h1>
-      <a className='text-red-600 font-bold' href="#home">See more &gt;</a>
+      <a className='text-red-600 font-semibold' href="#home">See more &gt;</a>
       </div>
       {isLoading ? (
         <p>Loading...</p>
